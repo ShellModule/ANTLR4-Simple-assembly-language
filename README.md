@@ -1,2 +1,2 @@
-##ANTLR4 Simple Assembly
+## ANTLR4 Simple Assembly
 Made as an assignment for the studies
